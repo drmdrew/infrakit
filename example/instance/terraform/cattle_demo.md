@@ -6,7 +6,8 @@ to provision instances in AWS.  The Terraform configurations are found in the di
 
 ## 1. The group config
 
-the file [`example/instance/terraform/aws-two-tier/group.json`)(./example/instance/terraform/aws-two-tier/group.json)
+The file
+[`example/instance/terraform/aws-two-tier/group.json`)(./example/instance/terraform/aws-two-tier/group.json)
 shows a simple group of cattle nodes provisioned using Terraform:
 
 ```json
